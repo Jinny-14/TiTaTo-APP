@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TiTaTo</string>
+    <string name="main_game_name">TIC-TAC-TOE</string>
+    <string name="main_welcome">WELCOME!!</string>
+    <string name="main_play">PLAY</string>
+    <string name="two_enter">Enter Player Names</string>
+    <string name="two_player1">Player 1</string>
+    <string name="two_player2">Player 2</string>
+    <string name="two_submit">SUBMIT</string>
+    <string name="empty">Enter the name</string>
+    <string name="home_button">HOME</string>
+    <string name="playAgain_button">PLAY AGAIN</string>
+</resources>
